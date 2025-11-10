@@ -1,4 +1,4 @@
-# Streamify
+# Real-Time Streaming and Data Quality Platform
 
 A data pipeline with Kafka, Spark Streaming, dbt, Docker, Airflow, Terraform, GCP and much more!
 
@@ -47,16 +47,6 @@ If you already have a Google Cloud account and a working terraform setup, you ca
 - Terraform
   - [Setup Terraform](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/week_1_basics_n_setup/1_terraform_gcp/windows.md#terraform)
 
-
-### Get Going!
-
-A video walkthrough of how I run my project - [YouTube Video](https://youtu.be/vzoYhI8KTlY)
-
-- Procure infra on GCP with Terraform - [Setup](setup/terraform.md)
-- (Extra) SSH into your VMs, Forward Ports - [Setup](setup/ssh.md)
-- Setup Kafka Compute Instance and start sending messages from Eventsim - [Setup](setup/kafka.md)
-- Setup Spark Cluster for stream processing - [Setup](setup/spark.md)
-- Setup Airflow on Compute Instance to trigger the hourly data pipeline - [Setup](setup/airflow.md)
 
 
 ### Debug
